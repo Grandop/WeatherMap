@@ -41,7 +41,7 @@ extension HomeViewController: WeatherBrainDelegate {
     func requestSuccess(weatherData: Weather?) {
         DispatchQueue.main.async {
             self.hideLoading()
-            self.temperature.text = weatherData?.tempFomat ?? ""
+            self.temperature.text = weatherData?.tempFormat ?? ""
             self.cityOfBrazil.text = weatherData?.name
         }
     }

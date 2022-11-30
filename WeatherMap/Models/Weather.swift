@@ -12,7 +12,7 @@ struct Weather: Codable {
     var main: Main
     var name: String
     
-    var tempFomat: String {
+    var tempFormat: String {
         return String(format: "%0.f", main.temp)
     }
     
