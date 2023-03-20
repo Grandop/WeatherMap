@@ -27,3 +27,12 @@
 11) Sua sigla tem significado de: Application programing interface, é onde existem dados na internet por exemplo um JSON, e ele é aberto para que possa ser utilizado em um código.
 
 12) Sua sigla é JavaScript Object Notation, ele armazena informações com um certa estrutura e é usado para transferir/passar dados entre o servidor e o cliente
+
+-----------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Preview do App:
+
+O objetivo do app é mostrar qual é a temperatura atual da cidade digitada no campo de texto, e caso a cidade não exista, um alert será exibido. Para isso foi realizado um request de API e telas construidas por meio de storyboard.
+
+https://user-images.githubusercontent.com/104664138/226358571-103785ad-d1c6-476b-80cb-e1748d5c7368.mp4
+
+
