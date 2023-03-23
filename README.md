@@ -4,6 +4,8 @@
 
 - Screens made with storyboard
 
+- MVC architecture
+
 - The API request was made natively
 
 - Autolayout
